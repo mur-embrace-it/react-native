@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941303043752",
+    "project_id": "find-worker-app",
+    "storage_bucket": "find-worker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941303043752:android:a4522f9abd5fea2032d49d",
+        "android_client_info": {
+          "package_name": "com.workerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941303043752-44644dhl4l0bqmmmtt814eoq5vti35j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnrmxkdUtP1bOudE3L6BucNlQk8st8GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941303043752-44644dhl4l0bqmmmtt814eoq5vti35j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
